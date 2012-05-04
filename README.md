@@ -1,4 +1,0 @@
-static-pages
-============
-
-Static pages
